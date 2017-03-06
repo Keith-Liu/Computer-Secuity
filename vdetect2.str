@@ -1,0 +1,5 @@
+v1:abcd
+v2:good\x09boy
+#
+# comment
+v3:another\x0A\x09bad
